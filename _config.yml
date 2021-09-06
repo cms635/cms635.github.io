@@ -45,7 +45,7 @@ prose:
               value: "commentary"
             - name: "Bio"
               value: "people"
-            - name: "Museum Projects"
+            - name: "Archive Projects"
               value: "ext-projects"
             - name: "Resources"
               value: "datasets"
