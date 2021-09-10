@@ -1,10 +1,10 @@
 ---
 layout: post
 published: true
-title: Kurt Fendt (Instructor)
+title: Trudy Painter
 category: people
-author: Kurt Fendt
-display-rank: 1
+author: Trudy Painter
+display-rank: 2
 ---
 
 ![Trudy.jpg](/assets/Trudy.jpg)
