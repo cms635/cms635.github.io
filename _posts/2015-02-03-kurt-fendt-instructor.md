@@ -10,3 +10,7 @@ display-rank: 1
 ![Kurt.jpg](/assets/Kurt.jpg)
 
 Dr. Kurt Fendt is Senior Lecturer in [Comparative Media Studies/Writing](http://cmsw.mit.edu) (CMS/W) and Director of MIT's Active Archives Initiative. He teaches Digital Humanities subjects in CMS/W and German Studies courses in [Global Languages](http://mitgsl.mit.edu). He is PI of the collaborative annotation platform [Annotation Studio](https://app.annotationstudio.org) and several other digital media and archival projects.
+
+![Trudy.jpg](/assets/Trudy.jpg)
+
+[Trudy Painter](http://trudy.computer/) is a 3rd year undergrad at MIT double majoring in computer science and comparative media studies. She's interested in exploring data with code, building systems from scratch, and quantifying effects of media. You can see her experimentation with collecting and visualizing her Spotify listening history [here](http://www.trudy.tube/). Also, check out her [Are.na](https://www.are.na/trudy-painter) which is full of collections of her other interests.
