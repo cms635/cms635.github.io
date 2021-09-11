@@ -1,6 +1,6 @@
 ---
 layout: post
-published: true
+published: false
 category: commentary
 title: Week 1 Reading Commentary - Trudy Painter
 tags:
