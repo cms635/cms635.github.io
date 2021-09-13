@@ -2,7 +2,7 @@
 layout: post
 published: true
 category: commentary
-title: ''
+title: Brenda Ceja Week 1 Commentary
 tags:
   - Week 1
 author: Brenda Ceja
