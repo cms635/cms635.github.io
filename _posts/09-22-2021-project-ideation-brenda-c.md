@@ -1,11 +1,3 @@
----
-layout: post
-published: true
-category: updates
-title: 09-22-2021-project-ideation-brenda-c
-author: Brenda Ceja
-tags: ''
----
 # Project Ideation - Brenda Ceja
 
 ### - What is the issue, aspect that you would like to address?
