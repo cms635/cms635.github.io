@@ -2,8 +2,9 @@
 layout: post
 published: true
 category: updates
-title: Project-Update-0-Brenda-Ceja.md
+title: 09-22-2021-project-ideation-brenda-c
 author: Brenda Ceja
+tags: ''
 ---
 # Project Ideation - Brenda Ceja
 
@@ -25,4 +26,4 @@ The level of participation from my audience ranges from surface-level preliminar
 
 ### - How do you envision to achieve this goal?
 
-I envision to achieve this goal by designing mockups in Figma. I may also use Roam Research to model what bidirectional links in the biography might look like for the archive.  
+I envision to achieve this goal by designing mockups in Figma. I may also use Roam Research to model what bidirectional links in the biography might look like for the archive.
