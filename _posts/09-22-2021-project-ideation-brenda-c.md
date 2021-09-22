@@ -1,7 +1,7 @@
 ---
 layout: post
 published: true
-category: updates
+category: commentary
 title: 2021-22-09-brenda-c-project-ideation
 author: Brenda Ceja
 ---
