@@ -13,4 +13,4 @@ Ernst's "Classical Archives and Digital Memory" takes the most mathematical appr
 
 [2] The new archive's job will be to meaningfully link different information nodes mathematically. Archives no longer serve the purpose of reactivating archivalia, instead they are meant to reactivate the relations between the archivalia. Therefore, we can leverage algorithms to categorize and index digital art/media more flexibly.
 
-In regards to the MIT Black History project, I think we should focus on how connecting relations between nodes and stories. We can hone in on common themes and use relationship building to tell a better story about the Black experience at MIT.
+In regards to the MIT Black History project, I think we should focus on connecting relations between nodes and stories. We can hone in on common themes and use relationship building to tell a better story about the Black experience at MIT.
