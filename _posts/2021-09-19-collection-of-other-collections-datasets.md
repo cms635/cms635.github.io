@@ -5,6 +5,6 @@ category: datasets
 title: Collection of other Collections+Datasets
 author: Trudy Painter
 ---
-I originally started gathering datatsets/archives/collections in hopes to try out some machine learning framework training. But, I think that a lot of them could be interesting for our conversations about the design of digital archives!
+Below is a collection to an Are.na channel of different websites/readings/PDFs relating to archives.
 
-https://www.are.na/trudy-painter/datasets-collections 
+[future archives 📚](https://www.are.na/trudy-painter/future-archives-5r6djwjpaj4)
