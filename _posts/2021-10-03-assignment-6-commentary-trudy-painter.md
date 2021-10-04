@@ -1,10 +1,11 @@
 ---
 layout: post
-published: false
-category: updates
+published: true
+category: commentary
 title: Assignment 6 Commentary - Trudy Painter
-author: ''
-tags: ''
+author: Trudy Painter
+tags:
+  - Week 4
 ---
 Valerie Johnson's "Dealing with the silence" examines multiple ways to fill the silence:
 
