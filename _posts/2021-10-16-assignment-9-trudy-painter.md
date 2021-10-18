@@ -12,3 +12,9 @@ I think for the Black Oral History we should think of our platform not as storyt
 [a] historical context and example stories provided by us (the designers)
 [b] exploring audio snippets at either a macro scale (high volume of short stories with similar topic/theme) or at a micro scale (intimately follow one person's experience)
 
+---
+
+I also liked Carlos Sora's diagram about how a user can move through data points. I think it will be a good visual aid for us to plan how we want to corral users through audio snippets/discovery. 
+
+![Screen Shot 2021-10-18 at 3.52.55 PM.png]({{site.baseurl}}/assets/Screen Shot 2021-10-18 at 3.52.55 PM.png)
+
