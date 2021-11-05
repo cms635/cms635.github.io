@@ -15,6 +15,8 @@ c. similar topic/themes discussed
 
 d. question asked by the interviewer (a common one was "tell me about your childhood")
 
+---
+
 1. How do you recommend that we preserve linear integrity of seqeuntial interview snippets without turning our visualization into a "plate of spaghetti"?
 
 2. Which affinity do you think is the most important to visualize? 
