@@ -1,7 +1,7 @@
 ---
 layout: post
 published: true
-category: updates
+category: commentary
 title: Assignment 7
 author: Alyssa Spencer
 tags:
