@@ -23,4 +23,4 @@ Here are 12 interviews to focus on that include people from a variety of backgro
 
 runner up: Eqbuonu-Davis, Lisa C. 1975–1979; SB 1979 (life sciences)
 
-James McLurkin does not have a published written transcript.
+Gloria Green, Denise Loyd, and James McLurkin does not have a published written transcript.
